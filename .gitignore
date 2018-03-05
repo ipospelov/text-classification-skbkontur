@@ -1,4 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/inspectionProfiles/
-.idea/vcs.xml
+.idea
+.ipynb_checkpoints
 Pospelov_lab3_.ipynb
